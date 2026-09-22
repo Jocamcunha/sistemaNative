@@ -24,7 +24,7 @@ export default function Cadastro({ navigation }) {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.titulo}>Cadastro</Text>
+            <Text style={styles.titulo}>Não tem conta? Crie!</Text>
 
             <TextInput
                 style={styles.input}

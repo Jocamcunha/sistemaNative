@@ -23,7 +23,7 @@ export default function Login({navigation}){
 
     return(
         <View style={styles.container}>
-            <Text style={styles.titulo}>Login</Text>
+            <Text style={styles.titulo}>Seja Bem-Vindo!</Text>
 
             <TextInput
                 style={styles.input}
